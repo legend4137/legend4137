@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hi,%20Varshit%20here!&animation=fadeIn&type=waving&color=gradient&height=100)
+![header](https://capsule-render.vercel.app/api?text=Hii,%20Varshit%20here!&animation=fadeIn&type=waving&color=gradient&height=100)
 
 ## 🙋‍♂️ About Me
 - 👨‍🎓 I'm a Junior undergrad at the Artificial Intelligence Department, IIT Jodhpur.
